@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-974a499fb2bada7349f2ece354d2b67641d8d15e.jar" />
+    </item>
+    <item
+        jar="/Users/dauphin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-a3f37778e24d84f57169d87b2b2efb1c6cdc1020.jar" />
+    </item>
+    <item
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/exploded-aar/AndroidConnection-master/truconnectandroid/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="617c4ed241afc41d9876e35739906e424cf62782">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/pre-dexed/debug/classes-a2587b2fc14a005a0f4769521f713ae603d5d024.jar" />
+    </item>
+    <item
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/pre-dexed/debug/classes-b351fe162d6530fa6cd44b98f16df96dc7a6943b.jar" />
+    </item>
+    <item
+        jar="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/dauphin/Dropbox/Internship/adherence/android/AndroidConnection-master/app/build/intermediates/pre-dexed/debug/classes-e4b4bd7a53cb24509c41eda29779c487ffb5ece4.jar" />
+    </item>
+
+</items>
