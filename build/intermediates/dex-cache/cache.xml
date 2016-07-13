@@ -2,81 +2,11 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="7c94e1c9d0fdb763f3c64cf06d0daafdb66087e6">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\instant-run_556f6fb704a295effc9436a88b083630cf566eda.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.2.1\support-annotations-22.2.1.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\support-annotations-22.2.1_0ebecc75ab2dc6868719b23d9ca513ea75384a89.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\bolts-tasks-1.4.0_aba72fc56c55d1dfd50c4e4186f916daf3d40c07.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\22.0.0\jars\classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="c6d79137693d494dee16372d3921f919eb724ced">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-22.0.0_62ed23a35fa1972c612eb8cb8c2fdb2da8719c54.jar" />
-    </item>
-    <item
         jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         revision="21.1.2"
-        sha1="580ab04b9ef8d14cf9946895362ab70e48343e9c">
+        sha1="1203ca2076665acc3d4b51c88da5fcf73eb98a22">
         <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_77bbf8acfc5ef0dd8836b32d07723ba13d5cf192.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="8ad21bf21784dacce5f2043afb97218cc377e835">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\bolts-applinks-1.4.0_ad0b7ded5f790712cbed9af477ccaf3f394f00ac.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-22.2.1_d37d9e26c78792dc7cca956ad3381db7256c36de.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\libs\internal_impl-22.2.1.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.1_7e508cb4306e54d5caef7071beca4008c9acebae.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.1\ef266d93357210b530c5b400e3d40de64fd86a0d\parse-android-1.13.1.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="ef266d93357210b530c5b400e3d40de64fd86a0d">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\parse-android-1.13.1_8de299e9e49d341c3e8480a1ee89ee2168f04561.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\exploded-aar\com.android.support\design\22.2.0\jars\classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="fc63b820d54c8a27a3a614bdd93920e0076581c2">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\com.android.support-design-22.2.0_36af2ddd935b77a66665b38ba0990438f6d0b486.jar" />
-    </item>
-    <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.2.1\jars\classes.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="f8efd0096475e0daf054267b61544e10dc776503">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-22.2.1_3e9d6ee9d52f3751d9dd9d8f46ffcf8e77db8a70.jar" />
     </item>
 
 </items>

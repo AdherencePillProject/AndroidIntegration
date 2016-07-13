@@ -20,7 +20,7 @@ public class FirstActivity extends AppCompatActivity {
             @Override
             public void run() {
                 Intent intent = new Intent();
-                intent.setClass(FirstActivity.this, MainActivity.class);
+                intent.setClass(FirstActivity.this, LoginActivity.class);
                 FirstActivity.this.startActivity(intent);
             }
         }, 2000);
