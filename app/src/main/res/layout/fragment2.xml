@@ -13,11 +13,11 @@
         android:paddingTop="10dp"
         android:id="@+id/today_container">
 
-        <com.adherence.adherence.SquareFrameLayout
+        <com.example.ilya.smartcap_v31b.SquareFrameLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:paddingBottom="20dp">
-            <com.adherence.adherence.SquareProgressBar
+            <com.example.ilya.smartcap_v31b.SquareProgressBar
                 android:id="@+id/progressWheel"
                 style="?android:attr/progressBarStyleHorizontal"
                 android:layout_width="match_parent"
@@ -31,6 +31,6 @@
                 android:layout_height="wrap_content"
                 android:text="Pills, 8/10 taken"
                 android:layout_gravity="center"/>
-        </com.adherence.adherence.SquareFrameLayout>
+        </com.example.ilya.smartcap_v31b.SquareFrameLayout>
     </LinearLayout>
 </ScrollView>

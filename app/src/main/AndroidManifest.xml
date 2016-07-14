@@ -32,9 +32,10 @@
 
         <activity android:name=".LoginActivity"></activity>
 
+        <activity android:name=".NextActivity"></activity>
+
         <activity android:name=".MainActivity"></activity>
 
-        <activity android:name=".NextActivity"></activity>
 
         <receiver android:name=".NotificationReceiver" />
         <service android:name=".NotificationService" />
