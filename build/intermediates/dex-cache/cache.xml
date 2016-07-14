@@ -1,12 +1,3 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
-    <item
-        jar="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        revision="21.1.2"
-        sha1="1203ca2076665acc3d4b51c88da5fcf73eb98a22">
-        <dex dex="C:\Users\dauphin\Dropbox\Internship\adherence\android\AndroidConnection-master\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_77bbf8acfc5ef0dd8836b32d07723ba13d5cf192.jar" />
-    </item>
-
-</items>

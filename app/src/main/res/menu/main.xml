@@ -7,4 +7,6 @@
         android:orderInCategory="100" app:showAsAction="never" />
     <item android:id="@+id/calendar" android:title="@string/calendar"
         android:orderInCategory="100" app:showAsAction="never" />
+    <item android:id="@+id/bluetooth" android:title="@string/bluetooth"
+        android:orderInCategory="100" app:showAsAction="never" />
 </menu>

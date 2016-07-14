@@ -37,7 +37,7 @@ public class LoginActivity extends AppCompatActivity {
             String pwd1=pwd.getText().toString();
             if(name1.equals("1") && pwd1.equals("2")){
                 Intent intent = new Intent();
-                intent.setClass(LoginActivity.this, MainActivity.class);
+                intent.setClass(LoginActivity.this, NextActivity.class);
                 LoginActivity.this.startActivity(intent);
             }
             else{

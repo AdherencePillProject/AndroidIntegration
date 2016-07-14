@@ -164,7 +164,7 @@ public class NextActivity extends AppCompatActivity
         //noinspection SimplifiableIfStatement
         if (id == R.id.logout) {
             Intent intent = new Intent();
-            intent.setClass(NextActivity.this, MainActivity.class);
+            intent.setClass(NextActivity.this, LoginActivity.class);
             NextActivity.this.startActivity(intent);
         }
 
@@ -177,6 +177,12 @@ public class NextActivity extends AppCompatActivity
         if (id == R.id.calendar) {
             Intent intent = new Intent();
             intent.setClass(NextActivity.this, NextActivity.class);
+            NextActivity.this.startActivity(intent);
+        }
+
+        if (id == R.id.bluetooth) {
+            Intent intent = new Intent();
+            intent.setClass(NextActivity.this, MainActivity.class);
             NextActivity.this.startActivity(intent);
         }
 

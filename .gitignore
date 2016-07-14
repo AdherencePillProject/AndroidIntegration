@@ -45,3 +45,7 @@ $RECYCLE.BIN/
 Network Trash Folder
 Temporary Items
 .apdisk
+app/src/main/res/mipmap-hdpi/reminder.png
+*.xml
+.gradle/2.10/taskArtifacts/fileSnapshots.bin
+*.bin
